@@ -2,7 +2,7 @@
  Covid-19 classification model with 90% accuracy that uses Deep Learning to classify Covid-19 Patients from X-ray medical images.
  
 ## Dataset
-The covid-19-chestxray dataset can be downloded from [This](https://github.com/ieee8023/covid-chestxray-dataset)Repo.
+The covid-19-chestxray dataset can be downloded from [This](https://github.com/ieee8023/covid-chestxray-dataset) Repo.
 
 To prepare and build the dataset, run:
 ```
